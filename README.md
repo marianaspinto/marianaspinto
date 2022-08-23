@@ -12,6 +12,7 @@
 <img align="center" alt="Mariana-BULMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 <img align="center" alt="Mariana-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <img align="center" alt="Mariana-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt=Mariana-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <br><br>
     
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaspinto&layout=compact&langs_count=7&theme=dracula"/>
