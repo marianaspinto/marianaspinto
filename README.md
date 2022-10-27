@@ -1,10 +1,13 @@
-### Olá! Seja bem vindo 👋
+### Olá! Seja bem vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br>
+### Me chamo Mariana, sou desenvolvedora Front-end.
 
 <div align="center">
   <a href="https://github.com/marianaspinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaspinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br>
+   
+   
     
-<img align="center" alt="Mariana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+
 <img align="center" alt="Mariana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Mariana-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Mariana-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -13,6 +16,7 @@
 <img align="center" alt="Mariana-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <img align="center" alt="Mariana-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="center" alt=Mariana-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" alt=Mariana-REACT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <br><br>
     
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaspinto&layout=compact&langs_count=7&theme=dracula"/>
