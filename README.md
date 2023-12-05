@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br>
+### Olá! Seja bem vindo(a)! 
 ### Me chamo Mariana, sou desenvolvedora Front-end.
 
 <div align="center">
