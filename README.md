@@ -1,5 +1,6 @@
-### Olá! Seja bem vindo(a)! 
-### Me chamo Mariana, sou desenvolvedora Front-end.
+## Hello, there! :wave:
+### My name is Mariana, I'm a front-end developer currently studying Software Engineering. 
+### My main projects are displayed in my portfolio, you can check them out by clicking here:
 
 <div align="center">
   <a href="https://github.com/marianaspinto">
