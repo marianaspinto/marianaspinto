@@ -1,12 +1,11 @@
 ## Hello, there! :wave:
-### My name is Mariana, I'm a front-end developer currently studying Software Engineering. 
-### My main projects are displayed in my portfolio, you can check them out by clicking here:
+#### My name is Mariana, I'm a front-end developer currently studying Software Engineering. My main projects are displayed in my portfolio, you can check them out by clicking here:
 
-<div align="center">
+<div>
   <a href="https://github.com/marianaspinto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaspinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br>
+  
    
-   ## Tecnologias que utilizo nos meus projetos:
+   ## Here's some of the stuff I like to use:
     
 <img align="center" alt="Mariana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="Mariana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
