@@ -5,7 +5,7 @@
   <a href="https://github.com/marianaspinto">
   
    
-   ## Here's some of the stuff I like to use:
+   ## Technologies used in my projects:
     
 <img align="center" alt="Mariana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="Mariana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
