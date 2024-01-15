@@ -1,5 +1,5 @@
 ## Hello, there! :wave:
-#### My name is Mariana, I'm a front-end developer currently studying Software Engineering. My main projects are displayed in my portfolio, you can check them out by clicking here:
+#### My name is Mariana, I'm a front-end developer currently studying Software Engineering. My main projects are displayed in my portfolio, you can check them out by clicking here: https://marianapinto.netlify.app/
 
 <div>
   <a href="https://github.com/marianaspinto">
