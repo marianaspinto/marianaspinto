@@ -1,5 +1,5 @@
 ## Hello, there! :wave:
-#### My name is Mariana, I'm a front-end developer currently studying Software Engineering. My main projects are displayed in my portfolio, you can check them out by clicking here: https://marianapinto.netlify.app/
+#### My name is Mariana, I am a Software Engineer and Cybersecurity specialist.
 
 <div>
   <a href="https://github.com/marianaspinto">
@@ -13,10 +13,8 @@
 <img align="center" alt="Mariana-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" alt="Mariana-GITHUB" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="Mariana-BULMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-<img align="center" alt="Mariana-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <img align="center" alt="Mariana-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="center" alt=Mariana-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt=Mariana-REACT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <br><br>
     
  
